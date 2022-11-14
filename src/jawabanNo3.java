@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JawabanNomerTiga {
+public class jawabanNo3 {
     public class check {
 
         static int jumlahplat = 10;
